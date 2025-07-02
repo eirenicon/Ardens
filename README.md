@@ -2,7 +2,7 @@ Ardens: Eirenicon Intelligent Frameworks
 
 Overview
 
-Ardens is a repository containing Eirenicon Intelligent Frameworks. This project aims to provide intelligent solutions and foundational frameworks for various applications.
+Ardens is a repository containing Eirenicon Intelligent Frameworks. This project aims to provide intelligent solutions and foundational frameworks for various AI (Artifical Intelligence) research approaches & applications.
 
 License
 
