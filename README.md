@@ -10,9 +10,8 @@ Ardens is a repository containing Eirenicon Intelligent Frameworks. This project
 
 ## License
 
-This project is licensed under the **GPL-3.0 License**. This means you are free to use, share, and modify this software under the terms of the GNU General Public License version 3.0.
-
-For more details, please see the `LICENSE` file in this repository.
+© 2024 – 2025 [eirenicon LLC](https://eirenicon.org) | [Ardens Project](https://github.com/eirenicon/Ardens)  
+**License**: All wiki content is licensed under [CC BY-SA 4.0](LICENSE.md) unless otherwise noted.  
 
 ---
 
