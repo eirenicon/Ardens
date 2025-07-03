@@ -1,4 +1,4 @@
-# Ardens: Eirenicon Intelligent Frameworks
+# Ardens: eirenicon Intelligent Frameworks
 
 ---
 
