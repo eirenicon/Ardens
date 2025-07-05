@@ -4,7 +4,8 @@
 
 ## Overview
 
-Ardens is a repository containing Eirenicon Intelligent Frameworks. This project aims to provide intelligent solutions and foundational frameworks for various **AI (Artificial Intelligence)** research approaches & applications.
+Ardens is primarily a repository containing eirenicon Intelligent Frameworks (instantiated as a Wiki). 
+The Ardens project aims to provide intelligent HUMAN solutions and foundational frameworks for use on **AI (Artificial Intelligence)** research projects and programs.
 
 ---
 
