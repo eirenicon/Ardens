@@ -4,8 +4,7 @@
 
 ## Overview
 
-Ardens is primarily a repository containing eirenicon AI Framework (instantiated as a Wiki). 
-The Ardens project aims to provide intelligent HUMAN solutions and foundational frameworks for use on **AI (Artificial Intelligence)** research projects and programs.
+Ardens is a civic intelligence initiative designed to track, test, and counter emerging threats in the hybrid space where AI systems and human perception collide. As critical infrastructure, public discourse, and information flows become increasingly shaped by opaque models, Ardens offers a human-aligned response: a structured, transparent framework for stress-testing AI outputs, detecting manipulation, and defending epistemic integrity. Explore our real-time monitoring, working methods, and strategic responses in the 📚 [Ardens Wiki](https://github.com/eirenicon/Ardens/wiki) — the project's operational nerve center.
 
 ---
 
