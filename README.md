@@ -1,4 +1,4 @@
-# Ardens: eirenicon AI Framework
+# Ardens: Amplified Intelligence Framework
 
 ## Why Ardens?
 
@@ -6,7 +6,7 @@ In a world awash with data and disinformation, Ardens helps distill clarity and 
 
 ## Core Principles
 
-* **Human-AI Symbiosis:** Humans and AI systems collaborate continuously, with humans guiding and validating AI outputs to improve quality and relevance.
+* **Human-AI Symbiosis:** Humans and AI (Amplified Intelligence) systems collaborate continuously, with humans guiding and validating AI outputs to improve quality and relevance.
 * **Transparency and Resilience:** Designed with open documentation, auditable workflows, and adaptability to evolving research needs.
 * **Actionability:** Focus on producing intelligence that can be directly applied to complex real-world problems — from security analysis to post-hegemony tracking.
 * **Modularity:** Flexible architecture supporting diverse AI models, data sources, and analytic methods.
